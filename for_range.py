@@ -14,4 +14,3 @@ for i in range(0,20,3):
 # for item in range(2,20):
 #     for each in range(2,20):
 #         print(item,'x',each,'=',item+each)
-

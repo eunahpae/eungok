@@ -8,4 +8,3 @@ elif c < d:
     print('c is less than d')
 else:
     print('I don\'t know')
-

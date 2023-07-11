@@ -11,6 +11,3 @@ for i, data in enumerate(['A', 'B', 'C']):
 # for _ , data in enumerate(['A', 'B', 'C']):
 #      print(data)
 #      print('------')
-
-
-

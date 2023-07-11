@@ -41,4 +41,3 @@ print(3==3 or 3>5)
 print(not False)
 
 print(not 3>5)
-
